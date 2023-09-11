@@ -1,1 +1,2 @@
 java is platform independant programming language.
+probability 1 edited
